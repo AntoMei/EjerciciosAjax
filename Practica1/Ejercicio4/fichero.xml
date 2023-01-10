@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Coches>
+  <Coche>
+     <Marca>Opel</Marca>
+     <Color>Azul</Color>
+  </Coche>
+  <Coche>
+     <Marca>Audi</Marca>
+     <Color>Blanco</Color>
+  </Coche>
+  <Coche>
+     <Marca>Renault</Marca>
+     <Color>Verde</Color>
+  </Coche>
+  <Coche>
+     <Marca>Mazda</Marca>
+     <Color>Gris</Color>
+  </Coche>
+  <Coche>
+     <Marca>Seat</Marca>
+     <Color>Negro</Color>
+  </Coche>
+</Coches>
